@@ -1,0 +1,9 @@
+
+
+asenna nodejs. nodejs sivulta
+
+npx create-react-app "nimi"
+
+cd "kansion nimi" eli sama kuin nimi ylempänä.
+
+npm start
